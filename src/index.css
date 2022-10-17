@@ -2,8 +2,7 @@ body {
   /* margin: 0; */
   margin: 90px;
   padding: 0;
-  /* background: linear-gradient(to top, rgb(88, 212, 240), white); */
-  color: #1E1E1F;
+  background-image: url(https://img.blogs.es/anexom/wp-content/uploads/2021/07/apps-para-ver-las-estrellas_E-1024x575.jpg);
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
 }
 
@@ -11,5 +10,7 @@ body {
   margin: 0 24px;
   position: relative;
   min-height: 100vh;
-  background-color: aquamarine;
+  border-radius: 5%;
+  background-color: aliceblue;
+  opacity: .70;
 }
