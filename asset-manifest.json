@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/https//Hannaanaya.github.io/curso-intro-react/static/css/main.62948964.chunk.css",
-    "main.js": "/https//Hannaanaya.github.io/curso-intro-react/static/js/main.f76da034.chunk.js",
-    "main.js.map": "/https//Hannaanaya.github.io/curso-intro-react/static/js/main.f76da034.chunk.js.map",
+    "main.css": "/https//Hannaanaya.github.io/curso-intro-react/static/css/main.4dc35be9.chunk.css",
+    "main.js": "/https//Hannaanaya.github.io/curso-intro-react/static/js/main.d330ee3f.chunk.js",
+    "main.js.map": "/https//Hannaanaya.github.io/curso-intro-react/static/js/main.d330ee3f.chunk.js.map",
     "runtime-main.js": "/https//Hannaanaya.github.io/curso-intro-react/static/js/runtime-main.37e37886.js",
     "runtime-main.js.map": "/https//Hannaanaya.github.io/curso-intro-react/static/js/runtime-main.37e37886.js.map",
     "static/js/2.e042e2a0.chunk.js": "/https//Hannaanaya.github.io/curso-intro-react/static/js/2.e042e2a0.chunk.js",
     "static/js/2.e042e2a0.chunk.js.map": "/https//Hannaanaya.github.io/curso-intro-react/static/js/2.e042e2a0.chunk.js.map",
     "index.html": "/https//Hannaanaya.github.io/curso-intro-react/index.html",
-    "static/css/main.62948964.chunk.css.map": "/https//Hannaanaya.github.io/curso-intro-react/static/css/main.62948964.chunk.css.map",
+    "static/css/main.4dc35be9.chunk.css.map": "/https//Hannaanaya.github.io/curso-intro-react/static/css/main.4dc35be9.chunk.css.map",
     "static/js/2.e042e2a0.chunk.js.LICENSE.txt": "/https//Hannaanaya.github.io/curso-intro-react/static/js/2.e042e2a0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.37e37886.js",
     "static/js/2.e042e2a0.chunk.js",
-    "static/css/main.62948964.chunk.css",
-    "static/js/main.f76da034.chunk.js"
+    "static/css/main.4dc35be9.chunk.css",
+    "static/js/main.d330ee3f.chunk.js"
   ]
 }
